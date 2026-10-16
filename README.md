@@ -1,5 +1,16 @@
 # MeshWarden
 
+> [!WARNING]
+> ## ⚠️ THIS REPOSITORY IS DEPRECATED ⚠️
+>
+> This project is no longer maintained. It has been **superseded** by three separate MeshWarden pieces:
+>
+> - **[meshwarden-daemon](https://github.com/benbaptist/meshwarden-daemon)** — the core service that orchestrates everything
+> - **[meshwarden-cli](https://github.com/benbaptist/meshwarden-cli)** — a command-line tool to interact with the daemon
+> - **[meshwarden-dashboard](https://github.com/benbaptist/meshwarden-dashboard)** — a web UI to interact with the daemon, with more advanced features
+>
+> Please use those projects instead. The content below is kept for historical reference only.
+
 ![Contacts List](backend/static/screenshots/contacts.png)
 
 MeshWarden is a web-based dashboard for managing [MeshCore](https://github.com/meshcore-dev/MeshCore) nodes. It gives you a mobile and desktop-friendly UI for watching your mesh network in real time, while also letting you actively manage and automate interactions with contacts across one or more nodes.
